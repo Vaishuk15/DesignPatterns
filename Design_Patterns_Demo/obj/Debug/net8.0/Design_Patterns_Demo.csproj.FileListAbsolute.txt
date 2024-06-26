@@ -1,0 +1,14 @@
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\bin\Debug\net8.0\Design_Patterns_Demo.exe
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\bin\Debug\net8.0\Design_Patterns_Demo.deps.json
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\bin\Debug\net8.0\Design_Patterns_Demo.runtimeconfig.json
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\bin\Debug\net8.0\Design_Patterns_Demo.dll
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\bin\Debug\net8.0\Design_Patterns_Demo.pdb
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\Design_Patterns_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\Design_Patterns_Demo.AssemblyInfoInputs.cache
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\Design_Patterns_Demo.AssemblyInfo.cs
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\Design_Patterns_Demo.csproj.CoreCompileInputs.cache
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\Design_Patterns_Demo.dll
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\refint\Design_Patterns_Demo.dll
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\Design_Patterns_Demo.pdb
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\Design_Patterns_Demo.genruntimeconfig.cache
+D:\Projects\Design_Patterns_Demo\Design_Patterns_Demo\obj\Debug\net8.0\ref\Design_Patterns_Demo.dll
