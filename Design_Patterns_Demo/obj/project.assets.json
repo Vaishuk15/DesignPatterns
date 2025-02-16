@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\VaishnaviKanagaraj\\.nuget\\packages\\": {}
+    "C:\\Users\\Vaishnavi.Kanagaraj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Design_Patterns_Demo\\Design_Patterns_Demo\\Design_Patterns_Demo.csproj",
+      "projectUniqueName": "C:\\Users\\Vaishnavi.Kanagaraj\\source\\Projects\\Design_Patterns_Demo\\Design_Patterns_Demo\\Design_Patterns_Demo.csproj",
       "projectName": "Design_Patterns_Demo",
-      "projectPath": "D:\\Projects\\Design_Patterns_Demo\\Design_Patterns_Demo\\Design_Patterns_Demo.csproj",
-      "packagesPath": "C:\\Users\\VaishnaviKanagaraj\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Design_Patterns_Demo\\Design_Patterns_Demo\\obj\\",
+      "projectPath": "C:\\Users\\Vaishnavi.Kanagaraj\\source\\Projects\\Design_Patterns_Demo\\Design_Patterns_Demo\\Design_Patterns_Demo.csproj",
+      "packagesPath": "C:\\Users\\Vaishnavi.Kanagaraj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vaishnavi.Kanagaraj\\source\\Projects\\Design_Patterns_Demo\\Design_Patterns_Demo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\VaishnaviKanagaraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vaishnavi.Kanagaraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -44,8 +49,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -66,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
