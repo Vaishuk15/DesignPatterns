@@ -1,6 +1,8 @@
 ﻿using Design_Patterns_Demo.Abstract_Factory.Implementation;
 using Design_Patterns_Demo.Abstract_Factory.Implementation.Factories;
 using Design_Patterns_Demo.Abstract_Factory.Interface;
+using Design_Patterns_Demo.Adapter.Implementation;
+using Design_Patterns_Demo.Adapter.Interface;
 using Design_Patterns_Demo.Factory.Implementation;
 using Design_Patterns_Demo.Factory.Interface;
 using Design_Patterns_Demo.Singleton;
@@ -15,6 +17,7 @@ class Program
         singleton.PrintMessage();
 
      // Factory usage
+     //(new object is created everytime for every implementation)
         FactoryClass factory = new FactoryClass();
 
         // Create a dog
@@ -42,5 +45,15 @@ class Program
 
         var app = new AbstractFactory(uiFactory);
         app.RenderUI();
+
+     //Adapter Pattern
+        // Using adapter to integrate ThirdPartyPaymentGateway with our system
+        ThirdPartyPaymentGateway thirdPartyGateway = new ThirdPartyPaymentGateway();
+        IPaymentProcessor adapter = new PaymentGatewayAdapter(thirdPartyGateway);
+
+        // Client code (PaymentService) works with the common interface
+        PaymentService paymentService = new PaymentService(adapter);
+
+        paymentService.MakePayment(100.50m);
     }
 }
